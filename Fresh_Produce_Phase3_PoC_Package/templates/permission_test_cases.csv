@@ -1,0 +1,7 @@
+Test ID,Role,Attempted action,Expected result,Initial status,Observed result,Final status,Unauthorized edit accepted (Yes/No),Evidence filename,Date,Notes
+P1,Customer,Confirm order,Rejected; status unchanged,,,,,,,
+P2,Customer,Mark order delivered,Rejected; status unchanged,,,,,,,
+P3,Delivery Participant,Confirm order,Rejected; status unchanged,,,,,,,
+P4,Delivery Participant,Mark ready for pickup,Rejected; status unchanged,,,,,,,
+P5,Farmer,Mark order delivered,Rejected; status unchanged,,,,,,,
+P6,Farmer,Mark order out for delivery,Rejected; status unchanged,,,,,,,

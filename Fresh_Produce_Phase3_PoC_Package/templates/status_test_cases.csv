@@ -1,0 +1,8 @@
+Test ID,Scenario,Role,Action,Expected result,Observed result,Result,Date,Prototype version,Evidence filename,Notes
+T1,Farmer confirms retail order,Farmer,Confirm,Confirmed,,,,,,
+T2,Farmer marks order ready for pickup,Farmer,Ready for Pickup,Ready for Pickup,,,,,,
+T3,Farmer confirms wholesale order,Farmer,Confirm,Confirmed,,,,,,
+T4,Delivery participant starts delivery,Delivery Participant,Out for Delivery,Out for Delivery,,,,,,
+T5,Delivery participant completes delivery,Delivery Participant,Delivered,Delivered,,,,,,
+T6,Customer attempts confirmation,Customer,Confirm,Status unchanged,,,,,,
+T7,Customer attempts delivery completion,Customer,Delivered,Status unchanged,,,,,,

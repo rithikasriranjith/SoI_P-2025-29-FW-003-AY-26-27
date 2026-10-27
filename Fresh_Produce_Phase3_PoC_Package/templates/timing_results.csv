@@ -1,0 +1,7 @@
+Run ID,Task,Method (Prototype/Manual-Sheet),Start definition,End definition,Elapsed time (seconds),Completed correctly (Yes/No),Excluded (Yes/No),Reason if excluded,Evidence filename,Date,Prototype version,Notes
+1,Confirm retail order,Prototype,Task begins,Correct updated status visibly confirmed,,,,,,,,
+2,Confirm retail order,Manual/Sheet,Task begins,Correct updated status visibly confirmed,,,,,,,,
+3,Mark ready for pickup,Prototype,Task begins,Correct updated status visibly confirmed,,,,,,,,
+4,Mark ready for pickup,Manual/Sheet,Task begins,Correct updated status visibly confirmed,,,,,,,,
+5,Confirm wholesale order,Prototype,Task begins,Correct updated status visibly confirmed,,,,,,,,
+6,Confirm wholesale order,Manual/Sheet,Task begins,Correct updated status visibly confirmed,,,,,,,,
